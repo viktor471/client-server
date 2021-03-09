@@ -1,6 +1,6 @@
-[submodule "server_tcp"]
-	path = server_tcp
-	url = https://github.com/viktor471/first_tcp_ip_server.git
 [submodule "client"]
 	path = client
 	url = https://github.com/viktor471/tcp_ip_client.git
+[submodule "server"]
+	path = server
+	url = https://github.com/viktor471/first_tcp_ip_server.git
